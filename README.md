@@ -1,5 +1,5 @@
 # Flowers-Image-Classifier
-- The project represents **Flowers Image Classifier** that can classify 102 different types of flowers from their images.
+- The project represents **Flowers Image Classifier** that can classify 102 different types of flowers from their images using transfer learning.
 - The dataset used in this project can be found [here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz).
 - This project was done as a part of Udacity's **AI Programming with Python Nanodegree**.
 
@@ -25,3 +25,5 @@
 - MatPlotLib
 - PIL
 - json
+
+**Note** : Using the values of hyperparameters and learning rate written in this project with VGG16 model will result in 92% accuracy.
