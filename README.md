@@ -1,5 +1,5 @@
 # Flowers-Image-Classifier
-- The project represents **Flowers Image Classifier** that can classify 102 different types of flowers from their images using transfer learning.
+- The project represents **Flowers Image Classifier** that can classify 102 different types of flowers from their images using PyTorch and transfer learning.
 - The dataset used in this project can be found [here](https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz).
 - This project was done as a part of Udacity's **AI Programming with Python Nanodegree**.
 
